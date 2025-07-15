@@ -26,7 +26,8 @@ Our team investigates the relationship between phone usage habits and adolescent
 
 ### Project Timeline
 
-This project officially commenced on July 15, 2025, and will continue until July 18, 2025.
+This project officially commenced on July 15, 2025, and will continue until July 18, 2025. (https://github.com/users/Monferium/projects/2)
+
 
 ### Python Files: 
 1. PART 1: PROBLEM OVERVIEW and EXPLORATORY DATA ANALYSIS (https://colab.research.google.com/drive/1-MrCDTwa0MvZVvzoxWSrlFOjvLt7KR8Q?usp=sharing)
