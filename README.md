@@ -20,13 +20,16 @@
 > + Model Evaluation and Documentation
 > + Github Project Management
 
-### Problem Statement
+### 📊 Summary & Discussion
 
-Our team investigates the relationship between phone usage habits and adolescent well-being, focusing on correlations with mental health indicators, academic performance, and lifestyle behaviors. Specifically, <span style="color:coral">**we aim to address the dilemma posed by the dataset creator: “How does phone addiction affect teenagers’ sleep, exercise, self-esteem, and school performance?”**</span>
+🔷 Problem Statement
+We investigated the relationship between teenage phone addiction and well-being, focusing on how addiction levels relate to academic performance, sleep, exercise, mental health, and social behaviors. Using advanced resampling and inferential techniques, our goal was to uncover not just whether significant associations exist, but what their broader implications may be for adolescent development.
+
+
 
 ### Project Timeline
 
-This project officially commenced on July 15, 2025, and will continue until July 18, 2025. (https://github.com/users/Monferium/projects/2)
+This project officially commenced on July 15, 2025, and will continue until July 20, 2025. (https://github.com/users/Monferium/projects/2)
 
 
 ### Python Files: 
