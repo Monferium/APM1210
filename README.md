@@ -38,6 +38,24 @@ We investigated the relationship between teenage phone addiction and well-being,
 
 **These findings imply that while the association is subtle and hard to detect with classical hypothesis tests, Bayesian and density-based approaches illuminate that a subgroup of highly addicted teens may indeed be at risk academically.** This highlights the importance of targeted interventions and raises questions about thresholds of “healthy” vs. “harmful” phone use.
 
+<h4>🔷 Recommendations </h4><hr>
+
+
+**Focus on moderation, not elimination.
+Our findings suggest that while extreme phone addiction correlates with lower academic performance, moderate use is typical and not strongly harmful.** Interventions should target students at the extremes, helping them set healthier boundaries rather than imposing blanket restrictions.
+
+Monitor at-risk subgroups.
+**Since density maps and Bayesian inference hint at a vulnerable subgroup (high addiction, middle to low performance)**, schools and parents could focus on identifying and supporting these teens through counseling and awareness programs.
+
+Incorporate Bayesian thinking in monitoring.
+
+> **The Bayesian approach shows a credible interval excluding zero even where frequentist tests fail — demonstrating the value of probabilistic thinking in educational research. Decision-makers should consider the full distribution of possible outcomes rather than a binary p-value.**
+
+
+<h4>🔷 Future researchers:</h4><hr>
+
+Explore longitudinal data to determine causality, and **examine moderating factors such as social support, mental health, and family dynamics to understand why some teens considered as addicted using their phone are more affected than others physciologically and socially.**
+
 
 ### Project Timeline
 
