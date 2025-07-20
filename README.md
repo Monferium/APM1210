@@ -22,9 +22,21 @@
 
 ### 📊 Summary & Discussion
 
-🔷 Problem Statement
+<h4>🔷 Problem Statement</h4><hr>
+
 We investigated the relationship between teenage phone addiction and well-being, focusing on how addiction levels relate to academic performance, sleep, exercise, mental health, and social behaviors. Using advanced resampling and inferential techniques, our goal was to uncover not just whether significant associations exist, but what their broader implications may be for adolescent development.
 
+<h4>🔷 Discussion Result</h4><hr>
+
+**By triangulating evidence across frequentist, resampling, permutation, Bayesian, and EDA methods, we derive a nuanced picture:**
+
+> Frequentist and resampling results show high variability and a weak signal.
+> > The permutation test suggests the negative slope may not be statistically significant.
+
+> The Bayesian posterior, however, assigns credible mass to a negative slope.
+>> Density estimation supports the narrative that moderate use is typical, but excessive use coincides with worse outcomes.
+
+**These findings imply that while the association is subtle and hard to detect with classical hypothesis tests, Bayesian and density-based approaches illuminate that a subgroup of highly addicted teens may indeed be at risk academically.** This highlights the importance of targeted interventions and raises questions about thresholds of “healthy” vs. “harmful” phone use.
 
 
 ### Project Timeline
